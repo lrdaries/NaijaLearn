@@ -1,0 +1,8 @@
+{
+  "name": "OyaSkill LMS",
+  "description": "The 'Oya!' way to master tech skills. Optimized for Africa with mobile-first, low-data, and job-ready learning tracks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
